@@ -54,7 +54,11 @@ button {
 ul {
     list-style-type: none;
 }
-
+.ogimage {
+    background: url("/image/sushantgangwar.jpg") no-repeat fixed center;
+    min-width: 1200px;
+    min-height: 630px;
+}
 /* -------------------------------------------------- */
 
 /* loader styling */
