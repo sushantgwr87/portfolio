@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e87dd346-b9c2-4106-8848-904a9207e109/deploy-status)](https://app.netlify.com/sites/sushantgangwar/deploys)
 # Portfolio
 :wave: Hey there!, This is my first personal website/portfolio.
 
