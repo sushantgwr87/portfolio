@@ -75,9 +75,9 @@ document.addEventListener('click', function(event) {
 });
 
 // scroll function to show and hide navbar while scrolling up and down respectively.
-let prevScrollpos = window.pageYOffset;
+var prevScrollpos = window.pageYOffset;
 window.onscroll = function() {
-    let currentScrollPos = window.pageYOffset;
+    var currentScrollPos = window.pageYOffset;
     if (currentScrollPos > prevScrollpos && currentScrollPos > 70) {
         document.getElementById("navbar").classList.add("downscroll");
         document.getElementById("navbar").classList.remove("upscroll");
