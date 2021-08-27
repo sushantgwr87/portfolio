@@ -90,7 +90,7 @@ window.onscroll = function() {
         document.getElementById("navbar").classList.remove("downscroll");
     }
     prevScrollpos = currentScrollPos;
-}
+};
 
 // to remove loader animation after 3s
 setTimeout(function(){ 
