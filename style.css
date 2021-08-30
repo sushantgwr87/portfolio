@@ -435,6 +435,7 @@ p {
     bottom: 0;
 }
 .projectTags span {
+    font-size: calc(12px + 0.2vw);
     background-color: var(--fontHeadColor);
     color: var(--hoverColor);
     border-radius: 10px;
@@ -477,6 +478,7 @@ p {
     position: relative;
     background: rgb(20,20,20);
     background: linear-gradient(130deg, rgba(20,20,20,1) 84%, rgba(222,222,228,1) 84%, rgba(222,222,228,1) 86%, rgba(28,183,230,1) 86%, rgba(28,183,230,1) 100%);
+    box-shadow: 0px 3px 10px 1px rgb(99, 99, 99);
     border-radius: 10px;
     padding: 40px 30px;
     width: 300px;
@@ -680,6 +682,8 @@ a.hamburgerMenu {
         flex-direction: column;
         justify-content: center;
         gap: 0;
+        border-radius: 10px;
+        box-shadow: 0px 3px 10px 1px rgb(99, 99, 99);
     }
     .projectImage {
         border-radius: 10px 10px 0 0;
