@@ -38,4 +38,4 @@ Have worked with following frameworks:
 - Express.js
 
 ## Inspiration & Acknowlegement
-I was lurking on web to find some ideas for portfolio, I stumbled upon many portfolios with crazy designs and stuff. I was looking for simple but a clean theme that shows designing concepts well enough. This portfolio by [Brittany Chang](https://brittanychiang.com/) is one of most smooth and creative design. Do check her profile😄 for amazing projects.
+I was lurking on web to find some ideas for portfolio, I stumbled upon many portfolios with crazy designs and stuff. I was looking for simple but a clean theme that shows designing concepts well enough. This portfolio by [Brittany Chang](https://brittanychiang.com/) is one of most smooth and creative design. Do check her profile😄for amazing projects, her [Github](https://github.com/bchiang7)
