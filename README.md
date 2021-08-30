@@ -1,5 +1,12 @@
-## Deploy Status
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e87dd346-b9c2-4106-8848-904a9207e109/deploy-status)](https://app.netlify.com/sites/sushantgangwar/deploys)
+<p align="center">
+    <a href="https://app.netlify.com/sites/sushantgangwar/deploys"><img src="https://api.netlify.com/api/v1/badges/e87dd346-b9c2-4106-8848-904a9207e109/deploy-status" alt="Javascript" height="30" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="30" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS" height="30" style="vertical-align:top; margin:4px">
+</p>
 
 # Portfolio
 :wave: Hey there!, This is my first personal website/portfolio.
