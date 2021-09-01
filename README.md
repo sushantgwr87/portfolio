@@ -1,6 +1,3 @@
-# Portfolio
-:wave: Hey there!, This is my first personal website/portfolio.
-
 <p align="center">
     <a href="https://app.netlify.com/sites/sushantgangwar/deploys"><img src="https://api.netlify.com/api/v1/badges/e87dd346-b9c2-4106-8848-904a9207e109/deploy-status" alt="Javascript" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
@@ -10,6 +7,11 @@
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="30" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS" height="30" style="vertical-align:top; margin:4px">
 </p>
+
+&nbsp; 
+
+# Portfolio
+:wave: Hey there!, This is my first personal website/portfolio.
 
 ## 🚀 About Me
 I'm a web developer :technologist: with experience of 3 years. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
