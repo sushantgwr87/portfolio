@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://app.netlify.com/sites/sushantgangwar/deploys"><img src="https://api.netlify.com/api/v1/badges/e87dd346-b9c2-4106-8848-904a9207e109/deploy-status" alt="Javascript" height="30" style="vertical-align:top; margin:4px"></a>
+    <a href="https://app.netlify.com/sites/sushantgangwar/deploys"><img src="https://api.netlify.com/api/v1/badges/e87dd346-b9c2-4106-8848-904a9207e109/deploy-status" alt="Netlify" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <p align="center">
